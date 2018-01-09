@@ -1,11 +1,11 @@
 ##Bulgaria
-## population
+## population:7.128 Million 
 
 
-## capital
+## capital:  
 
  
-## official language
+## official language 
 
 
 ## interesting trivia
